@@ -1,2 +1,2 @@
-# my-blog-
-My github blog 
+# mytemplate
+My template for pre-intensive
